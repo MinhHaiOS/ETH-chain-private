@@ -1,8 +1,8 @@
 {
    "config": {
-      "chainId": 2018,
+      "chainId": 2019,
       "homesteadBlock": 0,
-      "eip155Block": 2018,
+      "eip155Block": 2019,
       "eip158Block": 0,
       "byzantiumBlock": 0
    },
